@@ -1,6 +1,6 @@
 # Horiseon
 
-## Description subtitle
+## Marketing Agency
 
 The HTML content has been structured semantically.
 
